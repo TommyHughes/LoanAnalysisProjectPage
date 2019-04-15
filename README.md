@@ -1,5 +1,7 @@
 # Loan Analysis Project Page
 
-This is the project page for my loan analysis project. You can find the data on [kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data).
+This is the project page for my loan analysis project. 
 
-You can see the published result [here](https://tommyhughes.github.io/LoanAnalysisProjectPage/).
+* You can find the data on [kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data).
+* You can see the published result [here](https://tommyhughes.github.io/LoanAnalysisProjectPage/).
+* You can find the script used to analyze the project [here] (https://github.com/TommyHughes/LoanAnalysis).
